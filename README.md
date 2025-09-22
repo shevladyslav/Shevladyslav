@@ -13,4 +13,3 @@ I'm **Vladyslav**, a backend developer passionate about building scalable, secur
 - ☁️ AWS, EC2, S3  
 - 🧪 Pytest, Locust  
 - 📡 Celery, RabbitMQ  
-- 🔐 JWT, OAuth2  
